@@ -42,9 +42,9 @@
     "object-assign-deep": "*",
     "rimraf": "*",
     "semver": "*",
-    "winston": "2.4.2",
-    "zigbee-herdsman": "0.6.12",
-    "zigbee-herdsman-converters": "11.0.10"
+    "winston": "3.13.0",
+    "zigbee-herdsman": "0.41.2",
+    "zigbee-herdsman-converters": "19.16.0"
   },
   "devDependencies": {
     "eslint": "*",
